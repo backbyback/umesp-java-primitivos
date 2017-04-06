@@ -1,6 +1,12 @@
 # umesp-java-primitivos
 
-Exercícios de tipos primitivos em Java da Universidade Metodista de São Paulo
+# Testes
+```
+    javac Primitivo1.java
+    java Primitivo1
+```
+
+# Exercícios de tipos primitivos em Java da Universidade Metodista de São Paulo
 
 1) Realize e exiba a soma de dois números inteiros (Obs: pode utilizar dois números fixos)
 2) Realize e exiba a multiplicação de dois números inteiros (Obs: pode utilizar dois
